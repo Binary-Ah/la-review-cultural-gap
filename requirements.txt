@@ -1,0 +1,13 @@
+numpy
+pandas
+pyarrow
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+langdetect
+nltk
+kiwipiepy
+torch
+transformers
